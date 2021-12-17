@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 import numpy as np
-import boto3 
+#import boto3 
 from io import StringIO
 import os
 import json
